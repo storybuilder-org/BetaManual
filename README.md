@@ -4,7 +4,7 @@ Manual for public betas of StoryCAD.
 
 
 ### Important
-This repo is not frequently updated, it may be out of date with the public manual.
-This repo is only used to host the manual for public beta's of StoryCAD.
+This repo is automatically managed and a public mirror of StoryCAD/Dev/Docs
+Since its automatically managed, you should report any issues on the StoryCAD Repo or you can drop us an email at
 
-Issues releating to the manual should be filed in the main storycad repo, where the master copy of the manual is maintained.
+Support at storybuilder dot org. 
