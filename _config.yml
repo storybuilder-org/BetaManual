@@ -1,5 +1,5 @@
-title: StoryCAD Manual
-description: A help manual for StoryCAD
+title: StoryCAD Beta Manual
+description: Beta manual for StoryCAD
 theme: just-the-docs
 
 url: https://storybuilder-org.github.io/BetaManual/
@@ -9,7 +9,7 @@ aux_links:
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_link_text: "You are veiwing the beta version of this manual!"
 gh_edit_repository: "https://github.com/storybuilder-org/BetaManual" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
